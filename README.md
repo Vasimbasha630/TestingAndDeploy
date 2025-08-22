@@ -1,4 +1,4 @@
-Run Locally
+Run Locallyn on computer
 To run this project on your local system:
 
 # Clone the repository
