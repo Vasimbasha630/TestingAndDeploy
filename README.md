@@ -2,8 +2,7 @@ Run Locallyn on computer
 To run this project on your local system:
 
 # Clone the repository
-git clone https://github.com/V939271/TDD-TODO.git
-cd TDD-TODO
+(https://github.com/Vasimbasha630/TestingAndDeploy.git)
 
 # Install dependencies
 npm install
